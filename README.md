@@ -1,6 +1,6 @@
 # AudioGen-Papers
 
-Research papers and job opportunities related to unified audio generation approaches that support TTS, text-to-audio (TTA), text-to-music (TTM), and mixed audio scenes within a single framework.
+Research papers and jobs related to unified audio generation approaches that support TTS, text-to-audio (TTA), text-to-music (TTM), and mixed audio scenes within a single framework.
 
 ## 2026
 
